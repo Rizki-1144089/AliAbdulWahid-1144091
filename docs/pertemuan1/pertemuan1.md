@@ -1,4 +1,4 @@
-Kecerdasan Buatan
+# Kecerdasan Buatan - Tugas 1
 
 Latar Belakang Masalah :
 Jaman sekarang , masih kurang nya mengenai kecerdasan buatan dan juga pengiplementasian dalam bahasa pemrograman python. pada kali ini saya akan menjelaskan pendahuluan mengenai Kecerdasan buatan dan impelementasi aritmatika dan delta T pada bahasa pemrograman python.
